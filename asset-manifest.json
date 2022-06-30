@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omiya-computech-website/static/css/main.3ce2f720.css",
+    "main.js": "/omiya-computech-website/static/js/main.6bd32cf6.js",
+    "static/js/787.44bff4a4.chunk.js": "/omiya-computech-website/static/js/787.44bff4a4.chunk.js",
+    "index.html": "/omiya-computech-website/index.html",
+    "main.3ce2f720.css.map": "/omiya-computech-website/static/css/main.3ce2f720.css.map",
+    "main.6bd32cf6.js.map": "/omiya-computech-website/static/js/main.6bd32cf6.js.map",
+    "787.44bff4a4.chunk.js.map": "/omiya-computech-website/static/js/787.44bff4a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce2f720.css",
+    "static/js/main.6bd32cf6.js"
+  ]
+}
