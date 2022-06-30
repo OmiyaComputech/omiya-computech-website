@@ -1,5 +1,6 @@
 {
   "name": "omiya-computech-website",
+  "homepage": "https://OmiyaComputech.github.io/omiya-computech-website,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
